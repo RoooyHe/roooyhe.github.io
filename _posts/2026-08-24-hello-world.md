@@ -17,7 +17,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Firmiana|基于 Micronaut 4.10.1 和 Java 21 构建的本地优先 Matrix homeserver 实现|[AtomGit](https://atomgit.com/qiusls/firmiana)|In Progress|
 |Firmiana Doc|基于 Micronaut 4.10.1 和 Java 21 构建的本地优先 Matrix homeserver 实现|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|In Progress|
 |Toona ohos|Matrix Client App for HarmonyOS Native|[GitHub](https://github.com/roooyhe/toona-ohos)[[AtomGit](https://atomgit.com/toona/toona-ohos)]|In Progress|
-|Tamarix|Matrix-native task management|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)][[Summary](.\2026-08-24-tamarix.md)]|In Progress|
+|Tamarix|Matrix-native task management|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)][[Summary](/posts/tamarix/)]|In Progress|
 |Toona|Netrix 私有调试版本|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Paused|
 |Toona Doc|Netrix 私有调试版本 website|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|
 
