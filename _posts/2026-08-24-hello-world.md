@@ -12,6 +12,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 接下来会在这里记录一些技术笔记和随笔。
 
 #### Matrix
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |Firmiana|基于 Micronaut 4.10.1 和 Java 21 构建的本地优先 Matrix homeserver 实现|[AtomGit](https://atomgit.com/qiusls/firmiana)|In Progress|
@@ -22,6 +23,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Toona Doc|Netrix 私有调试版本 website|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|
 
 #### AI
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |Salad Chan|基于Expo的养成应用|[AtomGit](https://atomgit.com/qiusls/salad-chan)|In Progress|
@@ -29,6 +31,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Acuminata|a privacy-first, AI Agent-driven engine for tracking and analyzing browser history|[GitHub](https://github.com/RoooyHe/acuminata)|Paused|
 
 #### Frameworks without server (Kuntze)
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |Kuntze Next|Kuntze by Next.js and vercel|[GitHub](https://github.com/RoooyHe/kuntze-next)|In Progress|
@@ -37,6 +40,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Kuntze Salvo|Kuntze by salvo|[AtomGit](https://atomgit.com/kuntze-org/kuntze-salvo)|Paused| 
 
 #### Hackthon
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |Druce|Druce 是一个面向个人投资者的 AI 投研助手|[AtomGit](https://atomgit.com/druce-org/druce)|Paused|
@@ -46,6 +50,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Mongolicus|On-device LLM chat application powered by MNN inference engine|[GitHub](https://github.com/RoooyHe/mongolicus)|Paused|
 
 #### Java Framework
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |Onion|Onion is a lightweight, modular Java framework that simplifies the development of web applications.|[[GitHub](https://github.com/RoooyHe/onion)][[AtomGit](https://atomgit.com/qiusls/onion)]|Paused|
@@ -56,6 +61,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |Star Stream|以网格或列表视图查看书签Chrome 浏览器扩展|[GitHub](https://github.com/RoooyHe/star_stream)|Paused|
 
 #### Toys
+
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
 |cabbage|一个基于 Tauri 2 的桌面应用，用于计算 CS:GO/CS2 饰品倒余额的利润与亏损，支持完整的记录生命周期管理。|[[GitHub](https://github.com/RoooyHe/cabbage)][[AtomGit](https://atomgit.com/qiusls/cabbage)]|Paused|
