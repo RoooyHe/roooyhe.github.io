@@ -15,12 +15,12 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 
 |Project|Description|URL|Status|
 |-------|-----------|---|------|
-|Firmiana|基于 Micronaut 4.10.1 和 Java 21 构建的本地优先 Matrix homeserver 实现|[AtomGit](https://atomgit.com/qiusls/firmiana)|In Progress|
-|Firmiana Doc|基于 Micronaut 4.10.1 和 Java 21 构建的本地优先 Matrix homeserver 实现|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|In Progress|
-|Toona ohos|Matrix Client App for HarmonyOS Native|[GitHub](https://github.com/roooyhe/toona-ohos)[[AtomGit](https://atomgit.com/toona/toona-ohos)]|In Progress|
-|Tamarix|Matrix-native task management|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)][[Summary](/posts/tamarix/)]|In Progress|
-|Toona|Netrix 私有调试版本|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Paused|
-|Toona Doc|Netrix 私有调试版本 website|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|
+|Firmiana|基于 Micronaut 4 GraalVM 构建的 Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana)|In Progress|
+|Firmiana Doc|Firmiana 的文档|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|In Progress|
+|Toona ohos|基于鸿蒙6的 Matrix Client App|[GitHub](https://github.com/roooyhe/toona-ohos)[[AtomGit](https://atomgit.com/toona/toona-ohos)]|In Progress|
+|Tamarix|基于Matrix协议的任务管理平台 by Svelte 5|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)][[Summary](/posts/tamarix/)]|In Progress|
+|Toona|基于Matrix协议的任务管理平台 by MakePad 1.0|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Paused|
+|Toona Doc|Toona 的文档|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|
 
 #### AI
 
