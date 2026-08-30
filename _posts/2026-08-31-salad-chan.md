@@ -37,7 +37,7 @@ Salad-chan 是一款主打隐私的情侣共同减脂 App：两位伴侣各自�
 ## 隐私与设计原则
 
 - **本地优先**：所有数据都存在本地 SQLite（`salad-chan.db`），没有后端、没有账号体系、没有云组件。
-- **仅局域网共享**：唯一的网络行为是在局域网内直接交换日汇总，见 [ADR 0001](docs/adr/0001-no-backend-formula-based-goals.md)。
+- **仅局域网共享**：唯一的网络行为是在局域网内直接交换日汇总，见 [ADR 0001](https://atomgit.com/qiusls/salad-chan/blob/main/docs/adr/0001-no-backend-formula-based-goals.md)。
 - **确定性重放**：`src/core/settlement.ts` 是唯一权威——宠物的一切状态（当日状态、成长值、连胜、阶段）都由两人每日记录序列重放确定性推出；本地显示、改历史、局域网补传共用同一个函数收敛。
 
 ## 技术栈
@@ -117,7 +117,7 @@ src/
 
 ## 核心概念
 
-完整词汇表见 [CONTEXT.md](CONTEXT.md)。关键术语：
+完整词汇表见 [CONTEXT.md](https://atomgit.com/qiusls/salad-chan/blob/main/CONTEXT.md)。关键术语：
 
 - **目标 / 下限** —— 每日热量上限与下限，健康区间为 `[下限, 目标]`。
 - **宠物当日状态** —— 宠物即时表现，由两人中较差一方的判定决定。
@@ -148,7 +148,7 @@ eas build --profile production
 
 ## 路线图 / v1 明确不做
 
-详见 [v1-plan.md](docs/v1-plan.md)。v1 明确**不做**：
+详见 [v1-plan.md](https://atomgit.com/qiusls/salad-chan/blob/main/docs/v1-plan.md)。v1 明确**不做**：
 
 - 后端 / 账号 / 云同步
 - 拍照识别、第三方食物 API
