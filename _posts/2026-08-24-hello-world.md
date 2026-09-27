@@ -20,7 +20,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |[Firmiana Doc](https://firmiana.cloud/)|Firmiana 的文档|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|Work in Progress|2026-07-16|
 |[Toona ohos](/posts/toona-ohos)|基于鸿蒙6的 Matrix Client App|[[GitHub](https://github.com/roooyhe/toona-ohos)][[AtomGit](https://atomgit.com/toona/toona-ohos)]|Active|2026-08-31|
 |[Tamarix](/posts/tamarix/)|基于Matrix协议的任务管理平台 by Svelte 5|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)]|Work in Progress|2026-07-31|
-|[Toona](/posts/toona)|基于Matrix协议的任务管理平台 by MakePad 1.0|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Work in Progress|2026-03-29|
+|[Toona](/posts/toona)|基于Matrix协议的任务管理平台 by MakePad 1.0|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Paused|2026-03-29|
 |[Toona Doc](/posts/toona)|Toona 的文档|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|2026-03-22|
 
 #### AI
@@ -68,4 +68,5 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |---|---|---|---|---|
 |Cabbage|一个基于 Tauri 2 的桌面应用，用于计算 CS:GO/CS2 饰品倒余额的利润与亏损|[[GitHub](https://github.com/RoooyHe/cabbage)][[AtomGit](https://atomgit.com/qiusls/cabbage)]|Work in Progress|2026-06-29|
 |lc-t|基于FastAPI的RSS订阅源管理和查询系统|[GitHub](https://github.com/RoooyHe/lc-t)|Paused|2025-12-11|
+
 
