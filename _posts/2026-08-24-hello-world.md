@@ -57,8 +57,8 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |---|---|---|---|---|
 |Onion|一个轻量、模块化的 Java 快速开发框架|[[GitHub](https://github.com/RoooyHe/onion)][[AtomGit](https://atomgit.com/qiusls/onion)]|Paused|2025-11-24|
 |Onion UI|Onion 的前端，基于Vue3|[GitHub](https://github.com/RoooyHe/onion-ui)|Paused|2025-12-04|
-|Pinus|Spring AI 控制 Neo4J|[GitHub](https://github.com/RoooyHe/pinus)|Active|2026-08-28|
-|anyCharts|可视化图表制作平台|[GitHub](https://github.com/RoooyHe/anycharts)|Active|2026-08-28|
+|Pinus|Spring AI 控制 Neo4J|[GitHub](https://github.com/RoooyHe/pinus)|Work in Progress|2026-08-28|
+|anyCharts|可视化图表制作平台|[GitHub](https://github.com/RoooyHe/anycharts)|Work in Progress|2026-08-28|
 |Betula|基于 Makepad Framework构建的看板管理应用|[[GitHub](https://github.com/RoooyHe/betula)][[AtomGit](https://atomgit.com/qiusls/betula)]|Paused|2026-02-08|
 |Star Stream|以网格或列表视图查看书签Chrome 浏览器扩展|[GitHub](https://github.com/RoooyHe/star_stream)|Paused|2025-12-23|
 
@@ -68,5 +68,6 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |---|---|---|---|---|
 |Cabbage|一个基于 Tauri 2 的桌面应用，用于计算 CS:GO/CS2 饰品倒余额的利润与亏损|[[GitHub](https://github.com/RoooyHe/cabbage)][[AtomGit](https://atomgit.com/qiusls/cabbage)]|Work in Progress|2026-06-29|
 |lc-t|基于FastAPI的RSS订阅源管理和查询系统|[GitHub](https://github.com/RoooyHe/lc-t)|Paused|2025-12-11|
+
 
 
