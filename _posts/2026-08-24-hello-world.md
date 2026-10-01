@@ -18,7 +18,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |[Firmiana](/posts/firmiana)|基于 Micronaut 4 GraalVM 构建的 Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana)|Active|2026-09-03|
 |[Firmiana Fast]()|基于Netty 更极致的Java Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana-fast)|Active|2026-09-07|
 |[Firmiana Doc](https://firmiana.cloud/)|Firmiana 的文档|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|Work in Progress|2026-07-16|
-|[Toona ohos](/posts/toona-ohos)|基于鸿蒙6的 Matrix Client App|[[GitHub](https://github.com/roooyhe/toona-ohos)][[AtomGit](https://atomgit.com/toona/toona-ohos)]|Active|2026-08-31|
+|[Toona ohos](/posts/toona-ohos)|基于鸿蒙6的 Matrix Client App|[[GitHub](https://github.com/roooyhe/toona-ohos)][[AtomGit](https://atomgit.com/toona/toona-ohos)]|Work in Progress|2026-08-31|
 |[Tamarix](/posts/tamarix/)|基于Matrix协议的任务管理平台 by Svelte 5|[[GitHub](https://github.com/RoooyHe/tamarix)][[AtomGit](https://atomgit.com/qiusls/tamarix)]|Work in Progress|2026-07-31|
 |[Toona](/posts/toona)|基于Matrix协议的任务管理平台 by MakePad 1.0|[[GitHub](https://github.com/RoooyHe/toona)][[AtomGit](https://atomgit.com/toona/toona)]|Paused|2026-03-29|
 |[Toona Doc](/posts/toona)|Toona 的文档|[GitHub](https://github.com/RoooyHe/toona-doc)|Paused|2026-03-22|
@@ -27,14 +27,14 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 
 |Project|Description|URL|Status|Last Commit|
 |---|---|---|---|---|
-|[Salad Chan](/posts/salad-chan)|基于Expo的主打隐私的情侣共同减脂 App|[AtomGit](https://atomgit.com/qiusls/salad-chan)|Active|2026-08-30|
-|[Acuminata](/posts/acuminata)|隐私优先、由 AI Agent 驱动的浏览器历史追踪与分析引擎|[GitHub](https://github.com/RoooyHe/acuminata)|Active|2026-08-31|
+|[Salad Chan](/posts/salad-chan)|基于Expo的主打隐私的情侣共同减脂 App|[AtomGit](https://atomgit.com/qiusls/salad-chan)|Work in Progress|2026-08-30|
+|[Acuminata](/posts/acuminata)|隐私优先、由 AI Agent 驱动的浏览器历史追踪与分析引擎|[GitHub](https://github.com/RoooyHe/acuminata)|Work in Progress|2026-08-31|
 
 #### Frameworks without server (Kuntze)
 
 |Project|Description|URL|Status|Last Commit|
 |---|---|---|---|---|
-|[Kuntze Next](/posts/kuntze-next)|Kuntze by Next.js and vercel|[[GitHub](https://github.com/RoooyHe/kuntze-next)][[AtomGit](https://atomgit.com/kuntze-org/kuntze-next)]|Active|2026-08-30|
+|[Kuntze Next](/posts/kuntze-next)|Kuntze by Next.js and vercel|[[GitHub](https://github.com/RoooyHe/kuntze-next)][[AtomGit](https://atomgit.com/kuntze-org/kuntze-next)]|Work in Progress|2026-08-30|
 |Kuntze Native|Kuntze by vercel-lab native|[AtomGit](https://atomgit.com/kuntze-org/kuntze-native)|Work in Progress|2026-08-19|
 |Kuntze|Kuntze by Tauri2|[AtomGit](https://atomgit.com/kuntze-org/kuntze)|Work in Progress|2026-08-10|
 |Kuntze Salvo|Kuntze by salvo|[AtomGit](https://atomgit.com/kuntze-org/kuntze-salvo)|Work in Progress|2026-08-17|
@@ -49,7 +49,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |[Druce Website](https://roooyhe.github.io/druce-website/)|Druce 的文档|[[GitHub](https://github.com/RoooyHe/druce-website)][[AtomGit](https://atomgit.com/druce-org/druce-website)]|Work in Progress|2026-08-05|
 |[humulus](/posts/humulus)|基于 YOLOv8 的啤酒花图像分析系统|[[GitHub](https://github.com/RoooyHe/humulus)][[AtomGit](https://atomgit.com/green-pilot-org/humulus)]|Work in Progress|2026-07-27|
 |[Green Pilot](https://roooyhe.github.io/green-pilot/)|humulus 的文档|[GitHub](https://github.com/RoooyHe/green-pilot)|Work in Progress|2026-07-24|
-|[Mongolicus](/posts/mongolicus)|基于 [MNN](https://github.com/alibaba/MNN) 推理引擎与 Qwen 模型构建的端侧LLM|[GitHub](https://github.com/RoooyHe/mongolicus)|Active|2026-08-30|
+|[Mongolicus](/posts/mongolicus)|基于 [MNN](https://github.com/alibaba/MNN) 推理引擎与 Qwen 模型构建的端侧LLM|[GitHub](https://github.com/RoooyHe/mongolicus)|Work in Progress|2026-08-30|
 
 #### Java Framework
 
@@ -68,6 +68,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |---|---|---|---|---|
 |Cabbage|一个基于 Tauri 2 的桌面应用，用于计算 CS:GO/CS2 饰品倒余额的利润与亏损|[[GitHub](https://github.com/RoooyHe/cabbage)][[AtomGit](https://atomgit.com/qiusls/cabbage)]|Work in Progress|2026-06-29|
 |lc-t|基于FastAPI的RSS订阅源管理和查询系统|[GitHub](https://github.com/RoooyHe/lc-t)|Paused|2025-12-11|
+
 
 
 
