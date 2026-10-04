@@ -15,7 +15,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 
 |Project|Description|URL|Status|Last Commit|
 |---|---|---|---|---|
-|[Firmiana](/posts/firmiana)|基于 Micronaut 4 GraalVM 构建的 Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana)|Active|2026-09-03|
+|[Firmiana](/posts/firmiana)|基于 Micronaut 4 GraalVM 构建的 Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana)|Work in Progress|2026-09-03|
 |[Firmiana Fast]()|基于Netty 更极致的Java Matrix Homeserver|[AtomGit](https://atomgit.com/qiusls/firmiana-fast)|Active|2026-09-07|
 |[Firmiana Doc](https://firmiana.cloud/)|Firmiana 的文档|[AtomGit](https://atomgit.com/qiusls/firmiana-doc)|Work in Progress|2026-07-16|
 |[Toona ohos](/posts/toona-ohos)|基于鸿蒙6的 Matrix Client App|[[GitHub](https://github.com/roooyhe/toona-ohos)][[AtomGit](https://atomgit.com/toona/toona-ohos)]|Work in Progress|2026-08-31|
@@ -68,6 +68,7 @@ Java忠实信徒，区块链技术探索者，资深L1赔钱大户，Rust的孙�
 |---|---|---|---|---|
 |Cabbage|一个基于 Tauri 2 的桌面应用，用于计算 CS:GO/CS2 饰品倒余额的利润与亏损|[[GitHub](https://github.com/RoooyHe/cabbage)][[AtomGit](https://atomgit.com/qiusls/cabbage)]|Work in Progress|2026-06-29|
 |lc-t|基于FastAPI的RSS订阅源管理和查询系统|[GitHub](https://github.com/RoooyHe/lc-t)|Paused|2025-12-11|
+
 
 
 
